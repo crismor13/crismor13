@@ -1,5 +1,7 @@
 # Hi there, my name is Cristian Moreno 👋
 
+I'm a passionate software developer with a background in Chemical Engineering. Transitioned to software development after discovering my love for coding during MisionTic 2022. Over 2 years of self-study, project work, and participation in bootcamps and courses. Currently focused on software quality and testing.
+
 <!--
 **crismor13/crismor13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
