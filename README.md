@@ -19,6 +19,14 @@ I'm a passionate software developer with a background in Chemical Engineering. T
     <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
+## My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crismor13&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crismor13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crismor13&show_icons=true&theme=dark)
+
 <!--
 **crismor13/crismor13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
