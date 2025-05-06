@@ -1,6 +1,6 @@
 # Hi there, my name is Cristian Moreno 👋
 
-I'm a passionate software developer with a background in Chemical Engineering. Transitioned to software development after discovering my love for coding during MisionTic 2022. Over 2 years of self-study, project work, and participation in bootcamps and courses. 
+I'm a passionate software developer with a background in Chemical Engineering. Transitioned to software development after discovering my love for coding during MisionTic 2022. Over 3 years of self-study, project work, and participation in bootcamps and courses. 
 
 ## Tech stack
 
