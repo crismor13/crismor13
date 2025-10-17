@@ -1,6 +1,6 @@
 # Hi there, my name is Cristian Moreno 👋
 
-I'm a passionate software developer with a background in Chemical Engineering. Transitioned to software development after discovering my love for coding during MisionTic 2022. Over 3 years of self-study, project work, and participation in bootcamps and courses. 
+Software Developer with over a year of professional experience designing, developing, and deploying features for cloud-based SaaS applications and AI-driven systems. Proficient in full-stack development with hands-on experience in optimizing cloud infrastructure. Eager to contribute technical expertise and a collaborative problem-solving approach to building scalable and efficient software solutions.
 
 ## Tech stack
 
