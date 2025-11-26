@@ -1,6 +1,6 @@
 # Hi there, my name is Cristian Moreno 👋
 
-Software Developer with over a year of professional experience designing, developing, and deploying features for cloud-based SaaS applications and AI-driven systems. Proficient in full-stack development with hands-on experience in optimizing cloud infrastructure. Eager to contribute technical expertise and a collaborative problem-solving approach to building scalable and efficient software solutions.
+Software Developer with two years of professional experience designing, developing, and deploying features for cloud-based SaaS applications and AI-driven systems. Proficient in full-stack development with hands-on experience in optimizing cloud infrastructure. Eager to contribute technical expertise and a collaborative problem-solving approach to building scalable and efficient software solutions.
 
 ## Tech stack
 
